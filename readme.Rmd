@@ -35,6 +35,6 @@ Codebook.md: relevant info about the process required to create Tidy data
 
 ReadMe.md: This file
 
-Script_Tidy: R script that converts raw data to tidy data
+run_analysis: R script that converts raw data to tidy data
 
 
